@@ -16,6 +16,10 @@ function App() {
         </div>
         <div class="text">
           <h2>Green Transportation is the Key</h2>
+          <p class="info">
+            <a className="author">Jess Antoni Mosquera</a>
+            <time>2023-08-11 22:21</time>
+          </p>
           <p>Green transportation is any means of travel that doesn’t negatively impact the environment.</p>
         </div>
       </div>
