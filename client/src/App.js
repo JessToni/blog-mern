@@ -10,6 +10,9 @@ function App() {
           <a href="">Register</a>
         </nav>
       </header>
+      <div class="entry">
+        <img src="https://keegomobility.com/wp-content/uploads/2021/01/green-transportation-electric-car.png" alt="Electric Car"/>
+      </div>
     </main>
   );
 }
