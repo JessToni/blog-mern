@@ -12,6 +12,7 @@ function App() {
       </header>
       <div class="entry">
         <img src="https://keegomobility.com/wp-content/uploads/2021/01/green-transportation-electric-car.png" alt="Electric Car"/>
+        <h2>Green Transportation is the Key</h2>
       </div>
     </main>
   );
