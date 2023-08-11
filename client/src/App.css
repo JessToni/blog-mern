@@ -38,6 +38,7 @@ div.post {
     gap: 20px;
 }
 
-div.post div.image {
-    
+div.post div.text h2 {
+    margin: 0;
+    font-size: 1.5rem;
 }
