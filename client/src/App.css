@@ -33,5 +33,5 @@ header nav {
 }
 
 div.post {
-
+    display: flex;
 }
