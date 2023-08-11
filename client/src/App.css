@@ -33,5 +33,11 @@ header nav {
 }
 
 div.post {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+div.post div.image {
+    
 }
