@@ -55,3 +55,7 @@ div.post p.info {
     display: flex;
     gap: 15px;
 }
+
+div.post p.info a.author {
+    color: #333;
+}
