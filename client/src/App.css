@@ -3,3 +3,8 @@ main {
     max-width: 500px;
     margin: auto;
 }
+
+header {
+    display: flex;
+    justify-content: space-between
+}
